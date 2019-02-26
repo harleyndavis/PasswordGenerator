@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="password_length">Password Length</string>
+    <string name="enter_passphrase">Enter Passphrase</string>
+    <string name="a_z_a_z">a - z, A-Z</string>
+    <string name="_0_9">0-9</string>
+    <string name="punctuation">Punctuation</string>
+    <string name="special">Special</string>
+    <string name="passphrase">Passphrase</string>
+    <string name="_30">30</string>
+    <string name="button">Generate Password</string>
+    <string name="password_here_once_generated">password here once generated</string>
+    <string name="enterPassphrase">Please enter a passphrase!</string>
+</resources>
