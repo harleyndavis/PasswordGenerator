@@ -6,6 +6,7 @@ Purpose: Procedurally generate a seemingly random password from a given passphra
 passwords that are friendly across any possible site in terms of required character types, length, etc.
 
 TODO: 
+      
       -Currently may not include all character types requested. May be good to have an as optional feature but if you want to 
       generate a specific length password that includes all types, may not work(Seems work for most longer passwords, but not             guaranteed.
 
